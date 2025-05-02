@@ -28,3 +28,4 @@ Na levo v kategorii **"PROJECTION"** jsou dvě nastavení, která ovlivňují n�
 ## IV. Ovládání
 - Kameru lze otáčet buď šipkami na klávesnici, nebo pohybem myši se stisknutým kolečkem.
 - Otáčením kolečka na myši lze posouvat kameru dopředu a dozadu. 
+- Nahoře vpravo se nachází tlačítko **"Close"**, které zavře aplikaci 
