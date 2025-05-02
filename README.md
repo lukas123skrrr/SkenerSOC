@@ -23,3 +23,8 @@ Na levo v kategorii **"PROJECTION"** jsou dvě nastavení, která ovlivňují n�
 2. Nastavení **"X a Y Resolution"** ovlivňuje, s jakou hustotou se body vykreslí. Například pokud **"Y Resolution"** se rovná **2**, znamená to, že se vykreslí každý druhý řádek. **1** tedy znamená plné rozlišení.
 
 ![](https://github.com/lukas123skrrr/SkenerSOC/blob/main/N%C3%A1vod/3.png)
+
+
+## IV. Ovládání
+- Kameru lze otáčet buď šipkami na klávesnici, nebo pohybem myši se stisknutým kolečkem.
+- Otáčením kolečka na myši lze posouvat kameru dopředu a dozadu. 
