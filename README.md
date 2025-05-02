@@ -1,13 +1,13 @@
 ## I. Stáhnutí skenovaných dat
 K dispozici je ke stažení pár souborů, které obsahují bodová data z provedených skenů.
-Tyto textové soubory je poté možno zobrazit pomocí **návodu II**.
+Tyto textové soubory je poté možno zobrazit viz **kapitola II**.
 1. V repozitáři stáhněte složku Python -> Data
 2. Poté na počítači zkopírujte cestu na disku, kam jste tato složka "Data" uložená
 
 ## II. Instalace Vizualizační aplikace (Unreal Engine)
 1. Nejprve si aplikaci stáhněte [zde](https://drive.google.com/drive/folders/1BIatRt_TRbQb6JlDipvh5HGCOhrDlvKB?usp=drive_link) (Celou složku Windows).
 2. Poté spusťte **"Zobrazeni.exe"**
-3. Do rámečku "Source path" vložte zkopírovanou cestu z **návodu I.** Poté stiskněte "refresh".
+3. Do rámečku "Source path" vložte zkopírovanou cestu z **kapitoly I.** Poté stiskněte "refresh".
 
 **Ujistěte se, že na konci cesty je "/"**
 
