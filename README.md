@@ -5,7 +5,7 @@ Tyto textové soubory je poté možno zobrazit pomocí **návodu II**.
 2. Poté na počítači zkopírujte cestu na disku, kam jste tato složka "Data" uložená
 
 ## II. Instalace Vizualizační aplikace (Unreal Engine)
-1. Nejprve si aplikaci stáhněte [zde](https://drive.google.com/drive/folders/1BIatRt_TRbQb6JlDipvh5HGCOhrDlvKB?usp=drive_link)(Celou složku Windows)
+1. Nejprve si aplikaci stáhněte [zde](https://drive.google.com/drive/folders/1BIatRt_TRbQb6JlDipvh5HGCOhrDlvKB?usp=drive_link) (Celou složku Windows).
 2. Poté spusťte **"Zobrazeni.exe"**
 3. Do rámečku "Source path" vložte zkopírovanou cestu z **návodu I.** Poté stiskněte "refresh".
 
@@ -20,4 +20,6 @@ Tyto textové soubory je poté možno zobrazit pomocí **návodu II**.
 Pokud se vám zobrazení seká, je pár způsobů, jak to napravit:
 Na levo v kategorii **"PROJECTION"** jsou dvě nastavení, která ovlivňují náročnost:
 1. Ujistěte se, že nastavení **"Point type"** je nastaveno na **"Point"**. Toto nastavení zajistí, že se body vykreslují tím nejjednodušším způsobem
+2. Nastavení **"X a Y Resolution"** ovlivňuje, s jakou hustotou se body vykreslí. Například pokud **"Y Resolution"** se rovná **2**, znamená to, že se vykreslí každý druhý řádek. **1** tedy znamená plné rozlišení.
 
+![](https://github.com/lukas123skrrr/SkenerSOC/blob/main/N%C3%A1vod/3.png)
