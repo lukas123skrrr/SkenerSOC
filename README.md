@@ -5,7 +5,7 @@ Tyto textové soubory je poté možno zobrazit viz **kapitola II**.
 2. Poté na počítači zkopírujte cestu na disku, kam jste tato složka "Data" uložená
 
 ## II. Instalace Vizualizační aplikace (Unreal Engine)
-1. Nejprve si aplikaci stáhněte [zde](https://drive.google.com/drive/folders/1BIatRt_TRbQb6JlDipvh5HGCOhrDlvKB?usp=drive_link) (Celou složku Windows).
+1. Nejprve si aplikaci stáhněte [zde](https://drive.google.com/drive/folders/1n6u8gX6uVHcOVhVePnzwWD7YQxe5MsAG?usp=drive_link) (Celou složku Windows).
 2. Poté spusťte **"Zobrazeni.exe"**
 3. Do rámečku **"Source path"** vložte zkopírovanou cestu z **kapitoly I.** Poté stiskněte **"refresh"**.
 
